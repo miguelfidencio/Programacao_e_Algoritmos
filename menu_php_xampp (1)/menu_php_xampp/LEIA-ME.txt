@@ -1,0 +1,25 @@
+MENU DE OPCOES PHP / XAMPP
+
+1. Extraia a pasta menu_php_xampp.
+2. Copie a pasta para C:\xampp\htdocs\
+   O caminho final deve ser C:\xampp\htdocs\menu_php_xampp\index.php
+3. Abra o XAMPP Control Panel e clique em Start no Apache.
+4. No navegador, acesse:
+   http://localhost/menu_php_xampp/
+
+Arquivos:
+- index.php: menu principal
+- nome.php: mostra sobrenome antes do nome
+- calculadora.php e calculadora_back.php: calculadora
+- media.php: media de 4 notas e mencao
+- hipotenusa.php: calcula a hipotenusa
+- triangulo.php: verifica e classifica triangulo
+- equacao.php: resolve equacao do segundo grau
+- tabuada.php: tabuada com intervalo escolhido
+- adivinhacao.php: jogo de 0 a 100 com contagem de tentativas
+- sair.php: opcao sair
+
+IMPORTANTE:
+As faixas de mencao em media.php foram definidas como exemplo:
+MB >= 9; B >= 7; R >= 5; I < 5.
+Confirme com o professor se as faixas corretas forem outras.
